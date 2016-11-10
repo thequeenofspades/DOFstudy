@@ -1,0 +1,24 @@
+# Blender MTL File: 'vroom new dimensions.blend'
+# Material Count: 2
+newmtl Material.002_untitled.014
+Ns 62.745098
+Ka 0.000000 0.000000 0.000000
+Kd 0.018847 0.018847 0.018847
+Ks 0.003354 0.003354 0.003354
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd overhang.png
+
+
+newmtl wood_untitled.014
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 0.578423 0.383260 0.198636
+Ks 0.584416 0.584416 0.584416
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd overhang.png
+
+

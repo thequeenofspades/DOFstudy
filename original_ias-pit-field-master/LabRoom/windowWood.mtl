@@ -1,0 +1,13 @@
+# Blender MTL File: ''
+# Material Count: 1
+newmtl wood_wood_window.png_wood_window.png
+Ns 72.549020
+Ka 0.000000 0.000000 0.000000
+Kd 0.462738 0.306608 0.158909
+Ks 0.584416 0.584416 0.584416
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wood window.png
+
+

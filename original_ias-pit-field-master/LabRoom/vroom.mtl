@@ -1,0 +1,486 @@
+# Blender MTL File: 'vroom new dimensions.blend'
+# Material Count: 43
+newmtl Material.001_roofhigh
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.357143 0.357143 0.357143
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ceiling.png
+
+
+newmtl Material.002_untitled.014
+Ns 62.745098
+Ka 0.000000 0.000000 0.000000
+Kd 0.018847 0.018847 0.018847
+Ks 0.003354 0.003354 0.003354
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd overhang.png
+
+
+newmtl Material.003_untitled.011
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd floor.png
+map_Bump P1020120.JPG
+
+
+newmtl Material.006_untitled.016
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.008347 0.008347 0.008347
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.980000
+illum 1
+map_Kd window.png
+
+
+newmtl Material_untitled.021
+Ns 29.411765
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.723684 0.723684 0.723684
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd light rods.png
+
+
+newmtl black_cameras.png
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.023828 0.023828 0.023828
+Ks 0.144788 0.144788 0.144788
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd cameras.png
+
+
+newmtl black_untitled.001
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.023828 0.023828 0.023828
+Ks 0.144788 0.144788 0.144788
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2doorWall.png
+
+
+newmtl black_untitled.006
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.023828 0.023828 0.023828
+Ks 0.144788 0.144788 0.144788
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd backWall.png
+
+
+newmtl black_untitled.007
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.023828 0.023828 0.023828
+Ks 0.144788 0.144788 0.144788
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 1doorWall.png
+
+
+newmtl black_untitled.009
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.023828 0.023828 0.023828
+Ks 0.144788 0.144788 0.144788
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd windowWall.png
+
+
+newmtl black_untitled.020
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.023828 0.023828 0.023828
+Ks 0.144788 0.144788 0.144788
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd boxes.png
+
+
+newmtl ceiling_white_untitled.013
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd small light casing.png
+
+
+newmtl dark_untitled.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd 2doorWall.png
+
+
+newmtl dark_untitled.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd backWall.png
+
+
+newmtl dark_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd 1doorWall.png
+
+
+newmtl dark_untitled.009
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd windowWall.png
+
+
+newmtl door_door1.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.376623 0.376623 0.376623
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd door3.png
+
+
+newmtl door_door1.png.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.376623 0.376623 0.376623
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd door1.png
+
+
+newmtl door_handle_untitled.008
+Ns 390.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.559591 0.559591 0.559591
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd door addons.png
+
+
+newmtl door_handle_untitled.019
+Ns 390.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.559591 0.559591 0.559591
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hinges.png
+
+
+newmtl door_untitled
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.376623 0.376623 0.376623
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd door2.png
+
+
+newmtl floor_edges_untitled.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.024564 0.026826 0.024427
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 2doorWall.png
+map_Bump P1020137.JPG
+
+
+newmtl floor_edges_untitled.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.024564 0.026826 0.024427
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd backWall.png
+map_Bump P1020137.JPG
+
+
+newmtl floor_edges_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.024564 0.026826 0.024427
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1doorWall.png
+map_Bump P1020137.JPG
+
+
+newmtl floor_edges_untitled.009
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.024564 0.026826 0.024427
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd windowWall.png
+map_Bump P1020137.JPG
+
+
+newmtl green_untitled.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.139648 0.159333 0.087196
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 2doorWall.png
+
+
+newmtl green_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.139648 0.159333 0.087196
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1doorWall.png
+
+
+newmtl green_untitled.009
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.139648 0.159333 0.087196
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd windowWall.png
+
+
+newmtl lamp
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl lamp_untitled.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .
+
+
+newmtl walls_green/gray_untitled.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.163845 0.186408 0.155665
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 2doorWall.png
+map_Bump P1020127.JPG
+
+
+newmtl walls_green/gray_untitled.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.163845 0.186408 0.155665
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd backWall.png
+map_Bump P1020127.JPG
+
+
+newmtl walls_green/gray_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.163845 0.186408 0.155665
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1doorWall.png
+map_Bump P1020127.JPG
+
+
+newmtl walls_green/gray_untitled.009
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.163845 0.186408 0.155665
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd windowWall.png
+map_Bump P1020127.JPG
+
+
+newmtl walls_yellow_untitled.006
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.626794 0.197227
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd backWall.png
+map_Bump P1020126.JPG
+
+
+newmtl walls_yellow_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.626794 0.197227
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1doorWall.png
+map_Bump P1020126.JPG
+
+
+newmtl walls_yellow_untitled.009
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.626794 0.197227
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd windowWall.png
+map_Bump P1020126.JPG
+
+
+newmtl wood_untitled.001
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 0.578423 0.383260 0.198636
+Ks 0.584416 0.584416 0.584416
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 2doorWall.png
+
+
+newmtl wood_untitled.006
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 0.578423 0.383260 0.198636
+Ks 0.584416 0.584416 0.584416
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd backWall.png
+
+
+newmtl wood_untitled.007
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 0.578423 0.383260 0.198636
+Ks 0.584416 0.584416 0.584416
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 1doorWall.png
+
+
+newmtl wood_untitled.009
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 0.578423 0.383260 0.198636
+Ks 0.584416 0.584416 0.584416
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd windowWall.png
+
+
+newmtl wood_untitled.014
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 0.578423 0.383260 0.198636
+Ks 0.584416 0.584416 0.584416
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd overhang.png
+
+
+newmtl wood_wood_window.png
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 0.578423 0.383260 0.198636
+Ks 0.584416 0.584416 0.584416
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wood window.png
+
+

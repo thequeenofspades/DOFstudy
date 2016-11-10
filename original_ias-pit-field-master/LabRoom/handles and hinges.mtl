@@ -1,0 +1,24 @@
+# Blender MTL File: 'vroom new dimensions.blend'
+# Material Count: 2
+newmtl door_handle_untitled.008
+Ns 390.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.559591 0.559591 0.559591
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd door addons.png
+
+
+newmtl door_handle_untitled.019
+Ns 390.196078
+Ka 0.000000 0.000000 0.000000
+Kd 0.559591 0.559591 0.559591
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hinges.png
+
+

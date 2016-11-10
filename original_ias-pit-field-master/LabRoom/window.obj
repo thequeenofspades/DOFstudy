@@ -1,0 +1,15 @@
+# Blender v2.61 (sub 0) OBJ File: ''
+# www.blender.org
+mtllib window.mtl
+o Mesh_Plane.014_Plane.005
+v 6.575854 4.349400 4.339983
+v 6.575854 2.602985 4.339983
+v 3.243627 2.602985 4.339983
+v 3.243627 4.349400 4.339983
+vt -0.000000 0.756622
+vt 0.000000 -0.000000
+vt 1.000000 0.000000
+vt 1.000000 0.756622
+usemtl Material.006_untitled_window.png
+s off
+f 1/1 2/2 3/3 4/4

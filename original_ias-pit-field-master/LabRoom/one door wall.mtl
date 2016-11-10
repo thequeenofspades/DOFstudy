@@ -1,0 +1,82 @@
+# Blender MTL File: 'vroom new dimensions.blend'
+# Material Count: 7
+newmtl black_untitled.007
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.023828 0.023828 0.023828
+Ks 0.144788 0.144788 0.144788
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 1doorWall.png
+
+
+newmtl dark_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd 1doorWall.png
+
+
+newmtl floor_edges_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.024564 0.026826 0.024427
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1doorWall.png
+map_Bump P1020137.JPG
+
+
+newmtl green_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.139648 0.159333 0.087196
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1doorWall.png
+
+
+newmtl walls_green/gray_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.163845 0.186408 0.155665
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1doorWall.png
+map_Bump P1020127.JPG
+
+
+newmtl walls_yellow_untitled.007
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.626794 0.197227
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd 1doorWall.png
+map_Bump P1020126.JPG
+
+
+newmtl wood_untitled.007
+Ns 76.470588
+Ka 0.000000 0.000000 0.000000
+Kd 0.578423 0.383260 0.198636
+Ks 0.584416 0.584416 0.584416
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 1doorWall.png
+
+

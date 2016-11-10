@@ -1,0 +1,77 @@
+# Blender MTL File: 'vroom new dimensions.blend'
+# Material Count: 7
+newmtl Material.001_roofhigh
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.357143 0.357143 0.357143
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ceiling.png
+
+
+newmtl Material_untitled.021
+Ns 29.411765
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.723684 0.723684 0.723684
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd light rods.png
+
+
+newmtl black_cameras.png
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.023828 0.023828 0.023828
+Ks 0.144788 0.144788 0.144788
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd cameras.png
+
+
+newmtl black_untitled.020
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.023828 0.023828 0.023828
+Ks 0.144788 0.144788 0.144788
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd boxes.png
+
+
+newmtl ceiling_white_untitled.013
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd  small light casing.png
+
+
+newmtl lamp
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl lamp_untitled.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+

@@ -1,0 +1,13 @@
+# Blender v2.61 (sub 0) OBJ File: 'vroom new dimensions.blend'
+# www.blender.org
+mtllib 3.mtl
+o Mesh.014_floor.008
+v 2.632746 1.752206 0.083545
+v 5.980498 1.752206 3.353195
+v 5.980498 1.752206 -3.186105
+vt 1.000000 0.000000
+vt 0.500000 0.511944
+vt 0.000000 0.000000
+usemtl Material.003_untitled.011
+s off
+f 3/1 1/2 2/3
