@@ -6,7 +6,7 @@
     DOF tracking via Oculus position-tracking camera.
 '''
 
-import oculus
+import steamvr
 import viz, vizfx, vizact, vizjoy, vizinput
 import datetime
 import random
@@ -29,8 +29,8 @@ PPT1 = 0
 PPT2 = 0
 OCULUS = 1
 OCULUS_CAMERA = 1
-DATA = 1
-XBOX = 1
+DATA = 0
+XBOX = 0
 RUMBLEPAD = 0
 CONDITIONS_VISIBLE = 0
 
@@ -901,7 +901,7 @@ if __name__ == '__main__':
     viz.window.setSize(1260,790)
 
     if OCULUS:
-        hmd = oculus.Rift()
+        hmd = steamvr.HMD()
         hmd_sensor = hmd.getSensor()
         hmd_sensor.reset()
         
@@ -932,9 +932,10 @@ if __name__ == '__main__':
         if not PPT1 and not PPT2:
             hmd_link.setOffset([0,EYE_HEIGHT,0])
 
-        panel = hmd.addMessagePanel('No Variables Active')
+        #panel = hmd.addMessagePanel('No Variables Active')
         if not CONDITIONS_VISIBLE:
-            panel.visible(viz.OFF)
+            #panel.visible(viz.OFF)
+            pass
 
         vizact.onkeydown('1', latency_toggle)
         vizact.onkeydown('2', dof_toggle)
